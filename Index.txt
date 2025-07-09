@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Welcome to my website</h1>
+<p>This is lily</p>
+<img src="lily.jpg" alt="lily">
+
+
+</body>
+</html>
