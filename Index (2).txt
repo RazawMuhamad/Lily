@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome to My Website</title>
+</head>
+<body>
+
+  <h1>Welcome to my website</h1>
+  <p>This is Lily</p>
+
+  <!-- Make sure the file 'lily.jpg' exists and is in the same folder as this HTML file -->
+  <img src="lily.jpg" alt="Lily" width="300">
+
+</body>
+</html>
